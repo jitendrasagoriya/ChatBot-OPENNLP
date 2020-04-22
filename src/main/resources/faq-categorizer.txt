@@ -1,0 +1,10 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+name-inquiry    name please. you name. you name? what is your name. what is your name? your name? name? name. who are you? how can i call you? name name you name your name what is about you. name please. name please.
+age-inquiry     your age? age? age. how to find you age? what is your age?.
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm.
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+missing-transaction     unable to find transaction. unable to find transaction. report has missing transaction. missing. missing. Missing. How to get missing transaction. Missing. Transaction. Transaction. Missing. transaction. missing. unable to see transaction in report. missing transaction. Transaction is missing. Unable to find transaction. report is successfully generated but transactions are missing. transactions are missing. unable to find transactions in report. unable to find transactions in file.
+bank-continue     bank id is. bank id. bank id is. bank id. bnk id. bnk.
+branch-continue     branch id is. branch id. branch id is. branch id.
+account-continue     account id is. account id. account branch id is. account branch id. acc id. acc.
+date-of-transaction     txn date is. date is. txn as of date is. date. date.
